@@ -1,0 +1,9 @@
+In fisierul "aplicatii.in" se afla pe fiecare rand denumirea aplicatiei, dimensiunea in MB si data lansarii acesteia.
+	1) Cititi datele din fisier
+	2) Afisati aplicatiile ordine lexicografica.
+	3) Afisati aplicatiile care incap pe un card SD de 1GB.
+	4) Stiind ca Android 7 a fost lansat pe 22 august 2016, afisati aplicatiile dezvoltate in api-ul acestei versiuni de Android.
+	5) Afisati detaliile aplicatiei cu dimensiune maxima.
+	6) Afisati detaliile celei mai recente aplicatii.
+	7) Stergeti aplicatia cu cea mai mica dimensiune si afisati vectorul.
+	8) Inserati apliacatia favorita in vector si afisati-o.
